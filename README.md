@@ -21,7 +21,9 @@ A personal portfolio website built using Next.js (React) and Tailwind CSS.
 - Other dependencies listed in `package.json`
 ## Getting Started
 
-First, run the development server:
+First, install dependencies using npm i
+
+Then, run the development server:
 
 ```bash
 npm run dev
