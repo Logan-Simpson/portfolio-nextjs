@@ -1,5 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+A personal portfolio website built using Next.js (React) and Tailwind CSS.
 
+## Features
+
+- Mobile-friendly design for seamless viewing on different devices
+- Sections:
+  - Home: Welcome section with an introduction and highlights
+  - About: Information about me, my background
+  - Skills: List of skills I am proficient in
+  - Projects: Showcase of my projects with detailed project pages
+  - Contact: Contact information and a form for users to reach out to you
+
+## Technologies Used
+
+- Next.js: A React framework for building server-side rendered and static websites
+- Tailwind CSS: A utility-first CSS framework for styling the website
+- React: JavaScript library for building user interfaces
+- Other dependencies listed in `package.json`
 ## Getting Started
 
 First, run the development server:
